@@ -1,3 +1,6 @@
+#revision 1.0 
+#This version only mounts and unmounts efi partition on mac os
+
 import subprocess
 import os
 import biplist
